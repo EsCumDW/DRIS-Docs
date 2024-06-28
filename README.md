@@ -62,7 +62,7 @@ Crear una aplicación en **Android Studio** que agilice la generación de report
 
 ---
 ## App
-Para instalar el [apk](/assets/APKs/) en tu dispositivo sigue el [Manual de Ususario](/assets/Documents/Presentaci%C3%B3n%20Reportes_ST.pdf) o clona el repositorio desde **Github** y carga la app desde **Android Studio**. **La aplicación esta probada en A10, A11, A12 y A13.**
+Para instalar el [apk](/assets/apk/DRIS%203.3.1.apk) en tu dispositivo sigue el [Manual de Ususario](/assets/PDF/Presentación%20Reportes_ST.pdf) o clona el repositorio desde **Github** y carga la app desde **Android Studio**. **La aplicación esta probada en A10, A11, A12 y A13.**
 
 ```bash
 git clone https://github.com/EsCumDW/DRIS-Dataware-Report-Integrated-System.git
@@ -114,7 +114,7 @@ Esta actividad genera y adjunta al correo electrónico dos archivos: un informe 
 |--------|--------|-------|---------|--------|---------|-------|----|----------|----------|-----------|--------------|-------------|---------------|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Aqui hay un [**ejemplo**](/assets/Documents/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**.
+Aqui hay un [**ejemplo**](/assets/Excel/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**.
 
 ---
 ## Mercado Libre
@@ -141,7 +141,7 @@ Como resultado, esta actividad genera y adjunta al correo electrónico dos archi
 |----- |------|---------|----------|
 |  |  |  |  |
 
-Aqui hay un [**ejemplo**](/assets/Documents/MeLi_Qro_Series.csv) de como debe ser el **archivo fuente para Mercado Libre**.
+Aqui hay un [**ejemplo**](/assets/Excel/MeLi_Qro_Series.csv) de como debe ser el **archivo fuente para Mercado Libre**.
 
 *La actividad relacionada con **Firmware** sigue el mismo procedimiento, simplemente reemplaza el valor de las pulgadas con el de Firmware.*
 
@@ -164,18 +164,18 @@ En la Actividad de **Reportes de Servicio** se capturan datos como:
 
 Esta actividad opera exclusivamente con un archivo de registros denominado **Datos_RS**, en el cual el usuario puede crear tantos registros como desee. Los números de serie de estos registros se muestran en un Spinner que, al seleccionar uno, completa automáticamente los demás campos con la información correspondiente.
 
-No se necesita un archivo de series autorizadas para esta actividad, y produce un informe por dispositivo o número de serie.
+**No se necesita un archivo de series autorizadas para esta actividad, y produce un informe por dispositivo o número de serie.**
 
 ---
 ## Reportes
 Aqui hay ejemplos de como son los reportes para cada actividad.
 
-- [**Reporte PDF Otros Cientes**](/assets/Documents/Reporte_ST_Dataware_Qro.pdf)
-- [**Reporte PDF Bocar**](/assets/Documents/Reporte_ST_Bocar_Qro.pdf)
-- [**Reporte Excel Bocar**](/assets/Documents/Bocar_Qro_Excel.xls)
-- [**Reporte PDF Mercado Libre**](/assets/Documents/Reporte_ST_MeLi_Qro.pdf)
-- [**Reporte Excel Mercado Libre**](/assets/Documents/MeLi_Qro_Excel.xls)
-- [**Reporte de Servicio**](/assets/Documents/Reporte_Servicio_Dataware.pdf)
+- [**Reporte PDF Otros Cientes**](/assets/PDF/Reporte_ST_Dataware_Qro.pdf)
+- [**Reporte PDF Bocar**](/assets/PDF/Reporte_ST_Bocar_Qro.pdf)
+- [**Reporte Excel Bocar**](/assets/Excel/Bocar_Qro_Excel.xls)
+- [**Reporte PDF Mercado Libre**](/assets/PDF/Reporte_ST_MeLi_Qro.pdf)
+- [**Reporte Excel Mercado Libre**](/assets/Excel/MeLi_Qro_Excel.xls)
+- [**Reporte de Servicio**](/assets/PDF/Reporte_Servicio_Dataware.pdf)
 
 
 ---
