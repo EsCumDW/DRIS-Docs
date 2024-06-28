@@ -108,7 +108,7 @@ Permite incorporar la cantidad de registros necesarios en diversas bases de dato
 
 Esta actividad genera y adjunta al correo electrónico dos archivos: un informe en PDF y otro en formato Excel.
 
-**El archivo fuente o de series autorizadas para Bocar debe incluir en formato CSV las siguientes columnas:**
+**El archivo fuente o de series autorizadas para Bocar debe incluir en formato CSV las siguientes columnas sin encabezados:**
 
 | Número | Modelo | Serie | Cabezal | Sensor | Rodillo | Banda | IP | Estación | Operador | Ubicación | Fecha Inicio | Fecha Final | Observaciones |
 |--------|--------|-------|---------|--------|---------|-------|----|----------|----------|-----------|--------------|-------------|---------------|
@@ -135,7 +135,7 @@ Permite ingresar la cantidad necesaria de registros en varias bases de datos, y 
 
 Como resultado, esta actividad genera y adjunta al correo electrónico dos archivos: un informe en PDF y otro en formato Excel.
 
-**El archivo fuente o de series autorizadas para Mercado Libre debe contener en formato CSV las siguientes cuatro columnas:**
+**El archivo fuente o de series autorizadas para Mercado Libre debe contener en formato CSV las siguientes cuatro columnas sin encabezados:**
 
 | Serie | Fecha Vigencia Inicial | Fecha Vigencia Final | Zona de Operación |
 |----- |------|---------|----------|
