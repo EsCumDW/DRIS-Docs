@@ -1,22 +1,10 @@
 # DRIS V3.3.1 (Dataware Report Integrated System)
 
-<!-- \image html DatawareOKnegro.png 
-\image html Logo_Soporte_Tecnico.png 
-\image html logo_sit_512.png  -->
- 
-
 <center>
 
 ![](/assets/images/DatawareOKnegro.png)
 
 </center>
-
-<!-- <center>
-
-![Logo Dataware](/assets/images/Logo_Soporte_Tecnico.png)
-![Logo SIT](/assets/images/logo_sit_512.png)
-
-</center> -->
 
 <center>
 
