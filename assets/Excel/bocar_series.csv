@@ -1,4 +1,4 @@
-ZT411,99J204802527,OK,OK,OK,OK,172.23.8.114,Scorpion 6.7,Dolores Dominguez,Nave 12,24 de febrero de 2021,23 de febrero de 2024,"Base rodillo rota, Se le comenta al Ing Montiel que nos tienen que enviar ese equipo"
+ZT411,99J204802527,OK,OK,OK,OK,172.23.8.114,Scorpion 6.7,Dolores Dominguez,Nave 12,24 de febrero de 2021,23 de febrero de 2024,Base rodillo rota Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
 ZT410,18J144205353,OK,OK,OK,OK,172.23.8.50,Laboratorio pruebas,Orlando Venegas,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J175105827,OK,OK,OK,OK,Sin Ip,Almacen reciduos peligrosos,Orlando Venegas,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J191203583,OK,OK,OK,OK,172.23.8.100,Almacen de herramientas ,Ingrid Murillo ,Nave 12,4 de septiembre de 2022,21 de febrero de 2024,OK
@@ -23,7 +23,7 @@ QLn320,XXQLJ141602509,OK,OK,OK,NA,172.16.77.28,C028 2235,Daniel Reyes ,Nave 12,2
 ZT411,99J204802033,OK,OK,OK,OK,172.23.8.108,HF45,Estefania Picazo ,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,18J191203591,OK,OK,OK,OK,172.23.8.101,Mono block,Angel Loya,Nave 12,4 de septiembre de 2022,21 de febrero de 2024,OK
 ZT410,18J175105819,OK,OK,OK,OK,172.24.8.173,Wipe C073,Ricardo Duran,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J191203582,OK,OK,OK,OK,Sin Ip,Solubles,Enrique Costa,Nave 8,4 de septiembre de 2022,21 de febrero de 2024,"OK Se ajusto Cabezal, el cabezal estaba vencido, se ajusto con un tornillo"
+ZT410,18J191203582,OK,OK,OK,OK,Sin Ip,Solubles,Enrique Costa,Nave 8,4 de septiembre de 2022,21 de febrero de 2024,OK Se ajusto Cabezal el cabezal estaba vencido se ajusto con un tornillo
 ZT410,18J191203588,OK,OK,OK,OK,172.23.8.104,Modulo Sap componentes,Varios,Nave 8,4 de septiembre de 2022,21 de febrero de 2024,OK
 ZT410,18J175105798,OK,OK,OK,OK,172.23.8.168,Modulo Dap Kosba,Varios,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
 QLn420,XXQVJ175300449,OK,OK,OK,NA,172.16.77.87,C087 2226,Isabel Beleta,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
@@ -43,8 +43,8 @@ ZT410,18J175105797,OK,OK,OK,OK,172.23.8.168,OP 6.4 LTS  / OP AWD,Amada Nuñez ,Na
 ZT410,18J175105826,OK,OK,OK,OK,172.23.8.177,ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J170704396,OK,OK,OK,OK,No esta conectada,ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
 ZT410,18J180302865,OK,OK,OK,OK,No esta conectada,ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J191203595,OK,OK,OK,OK,No esta conectada ,ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,4 de septiembre de 2022,21 de febrero de 2024,"Puerto ethernet dañado, Se le comenta al Ing Montiel que nos tienen que enviar ese equipo"
-QLn320,XXQLJ141602513,OK,OK,OK,NA,172.16.77.32,C032 ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,"No prende, Se le comenta al Ing Montiel que nos tienen que enviar ese equipo"
+ZT410,18J191203595,OK,OK,OK,OK,No esta conectada ,ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,4 de septiembre de 2022,21 de febrero de 2024,Puerto ethernet dañado. Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
+QLn320,XXQLJ141602513,OK,OK,OK,NA,172.16.77.32,C032 ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,No prende. Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
 QLn320,XXQLJ141602510,OK,OK,OK,NA,172.16.77.29,C029 ALMACEN GENERAL ,Udivina Vázquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
 QLn420,XXQVJ143900383,OK,OK,OK,NA,172.16.77.26,C026 ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
 QLn420,XXQVJ171602047,OK,OK,OK,NA,173.16.77.13,C013 ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
@@ -128,7 +128,7 @@ ZT410,18J144205548,OK,OK,OK,OK,BACKUP,Almacen General,ADRIAN TURRUBIATES,-,-,-,O
 ZT410,18J144205565,OK,OK,OK,OK,172.30.87.13,PRODUCCION FUNDICION,SANDRA RAMIREZ,-,-,-,OK
 ZT410,52J165300444,OK,OK,OK,OK,BACKUP,Almacen General,ADRIAN TURRUBIATES,-,-,-,OK
 ZM400,18J144205527,OK,OK,OK,OK,172.30.1.105,of. embarques,DIEGO PALACIOS,-,-,-,OK
-ZT411,08J102500318,OK,OK,OK,OK,172.23.8.114,Scorpion 6.7,Dolores Dominguez,Nave 12,24 de febrero de 2021,23 de febrero de 2024,"Base rodillo rota, Se le comenta al Ing Montiel que nos tienen que enviar ese equipo"
+ZT411,08J102500318,OK,OK,OK,OK,172.23.8.114,Scorpion 6.7,Dolores Dominguez,Nave 12,24 de febrero de 2021,23 de febrero de 2024,Base rodillo rota. Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
 ZT410,XXQLJ171802899,OK,OK,OK,OK,172.23.8.50,Laboratorio pruebas,Orlando Venegas,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,XXQLJ141702586,OK,OK,OK,OK,Sin Ip,Almacen reciduos peligrosos,Orlando Venegas,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,XXQLJ162402932,OK,OK,OK,OK,172.23.8.100,Almacen de herramientas ,Ingrid Murillo ,Nave 12,4 de septiembre de 2022,21 de febrero de 2024,OK
