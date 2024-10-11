@@ -8,7 +8,7 @@ ZT411,99J204802528,OK,OK,OK,OK,172.23.8.115,Front Cover 2.5 L HEV,Laura o Magda,
 ZT411,99J204802532,OK,OK,OK,OK,172.23.8.109,Ensamble K107,Norma Quintana,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,18J170703016,OK,OK,OK,OK,172.23.8.62,Oil Pan 5BF C/S Sensor,Paola Sanchez,Nave 12,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J180302870,OK,OK,OK,OK,172.23.8.61,Oil Pan 5BF C/S Sensor,Ana Minjarez,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZT411,99J205103725,OK,OK,OK,OK,172.23.8.112,Front Cover D37,Sandra Hern�ndez ,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
+ZT411,99J205103725,OK,OK,OK,OK,172.23.8.112,Front Cover D37,Sandra Hernández ,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT411,99J205000106,OK,OK,OK,OK,172.23.8.113,Front Cover Cyclone 3.3,Marisol Arzate,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT411,99J205103719,OK,OK,OK,OK,172.23.8.110,Front Cover D35,Martha Cueto,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,18J175005278,OK,OK,OK,OK,172.23.8.163,Front Cover FR ZVK4,Nataly Navarrete,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
@@ -39,16 +39,16 @@ ZT410,18J175105805,OK,OK,OK,OK,172.23.8.172,OP YDK3 / FC YDK3,Estrella Ramirez,N
 ZT410,18J175105804,OK,OK,OK,OK,172.23.8.171,OIL PAN YDK3,Gloria Sepulveda,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J171904497,OK,OK,OK,OK,172.23.8.158,FRONT COVER FR+,Valeri Lozoya,Nave 8,28 de junio de 2022,21 de febrero de 2024,OK
 ZT411,99J205103723,OK,OK,OK,OK,172.23.8.111,FRONT COVER DRAGON,Lucero Gomez,Nave 8,24 de febrero de 2021,23 de febrero de 2024,OK
-ZT410,18J175105797,OK,OK,OK,OK,172.23.8.168,OP 6.4 LTS  / OP AWD,Amada Nu�ez ,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J175105826,OK,OK,OK,OK,172.23.8.177,ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J170704396,OK,OK,OK,OK,No esta conectada,ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
-ZT410,18J180302865,OK,OK,OK,OK,No esta conectada,ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J191203595,OK,OK,OK,OK,No esta conectada ,ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,4 de septiembre de 2022,21 de febrero de 2024,Puerto ethernet da�ado Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
-QLn320,XXQLJ141602513,OK,OK,OK,NA,172.16.77.32,C032 ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,No prende Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
-QLn320,XXQLJ141602510,OK,OK,OK,NA,172.16.77.29,C029 ALMACEN GENERAL ,Udivina V�zquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ143900383,OK,OK,OK,NA,172.16.77.26,C026 ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ171602047,OK,OK,OK,NA,173.16.77.13,C013 ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ190300605,OK,OK,OK,NA,172.16.77.92,C092 ALMACEN GENERAL,Udivina V�zquez ,ALMACEN GENERAL,18 de junio de 2022,21 de febrero de 2024,OK
+ZT410,18J175105797,OK,OK,OK,OK,172.23.8.168,OP 6.4 LTS  / OP AWD,Amada Nuñez ,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
+ZT410,18J175105826,OK,OK,OK,OK,172.23.8.177,ALMACEN GENERAL,Udivina Vázquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
+ZT410,18J170704396,OK,OK,OK,OK,No esta conectada,ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
+ZT410,18J180302865,OK,OK,OK,OK,No esta conectada,ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
+ZT410,18J191203595,OK,OK,OK,OK,No esta conectada ,ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,4 de septiembre de 2022,21 de febrero de 2024,Puerto ethernet dañado Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
+QLn320,XXQLJ141602513,OK,OK,OK,NA,172.16.77.32,C032 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,No prende Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
+QLn320,XXQLJ141602510,OK,OK,OK,NA,172.16.77.29,C029 ALMACEN GENERAL ,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ143900383,OK,OK,OK,NA,172.16.77.26,C026 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ171602047,OK,OK,OK,NA,173.16.77.13,C013 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ190300605,OK,OK,OK,NA,172.16.77.92,C092 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,18 de junio de 2022,21 de febrero de 2024,OK
 ZT411,99J204802531,OK,OK,OK,OK,172.23.8.116,GEAR CASE LH,Isabel Lan,Nave 10,24 de febrero de 2021,23 de febrero de 2024,OK
 ZQ630,XXZLJ195001736,OK,OK,OK,NA,172.16.77.24,C024 Calidad Nave 10,Alejandra Lucero,Nave 10,28 de diciembre de 2023,30 de junio de 2025,OK
 ZT411,99J202401401,OK,OK,OK,OK,172.23.8.107,Calidad Nave 10,Alejandra Lucero,Nave 10,8 de octubre de 2023,30 de junio de 2025,OK
@@ -64,23 +64,23 @@ ZT410,18J170704397,OK,OK,OK,OK,172.23.8.154,OIL PAN ZVK3 / L42N,Miriam Beleta,Na
 ZT410,18J175005293,OK,OK,OK,OK,172.23.8.164,OIL PAN ZV5K4,ROCIO SILVA ,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J175005298,OK,OK,OK,OK,172.23.8.165,FRONT COVER RR V6 ZVK3 NISSAN,OLGA HERNANDEZ,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J180302868,OK,OK,OK,OK,172.23.8.182,ROCKER COVER GEN V RH,OLGA HERNANDEZ,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J175105821,OK,OK,OK,OK,172.23.8.175,TAPA GEN V HIBRIDA,OLGA QUI�ONEZ,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
+ZT410,18J175105821,OK,OK,OK,OK,172.23.8.175,TAPA GEN V HIBRIDA,OLGA QUIÑONEZ,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J172201975,OK,OK,OK,OK,172.23.8.162,Cuarto de Herramientas ,Javier Contreras ,Nave 9,28 de junio de 2022,21 de febrero de 2024,OK
 ZT410,18J170704429,OK,OK,OK,OK,172.23.8.156,FRONT COVER K4,NESTOR ALVAREZ ,Nave 9,28 de junio de 2022,21 de febrero de 2024,OK
 ZT410,18J175105825,OK,OK,OK,OK,172.23.8.176,Calidad Nave 9,NESTOR ALVAREZ ,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J151803318,OK,OK,OK,OK,172.23.8.57,Embarques PT 2,Antonio Ochoa,Embarques  PT2,22 de febrero de 2022,21 de febrero de 2024,OK
-ZT410,18J142002056,OK,OK,OK,OK,172.23.8.200,Oficina Componenetes ,Daniel P�rez ,Oficina Componentes ,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J180302862,OK,OK,OK,OK,172.23.8.180,Oficina Componenetes ,Daniel P�rez ,Oficina Componentes ,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ162403357,OK,OK,OK,NA,173.16.77.48,C048 Oficina Componentes,Daniel P�rez ,Oficina Componentes ,22 de febrero de 2022,21 de febrero de 2024,OK
+ZT410,18J142002056,OK,OK,OK,OK,172.23.8.200,Oficina Componenetes ,Daniel Perez ,Oficina Componentes ,1 de julio de 2023,30 de junio de 2025,OK
+ZT410,18J180302862,OK,OK,OK,OK,172.23.8.180,Oficina Componenetes ,Daniel Perez ,Oficina Componentes ,1 de julio de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ162403357,OK,OK,OK,NA,173.16.77.48,C048 Oficina Componentes,Daniel Perez ,Oficina Componentes ,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J144205393,OK,OK,OK,OK,172.23.8.53,Embarques PT 1,Francisco Melero,Embarques PT 1,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J191203590,OK,OK,OK,OK,173.23.8.102,Embarques PT 1,Francisco Melero,Embarques PT 1,4 de septiembre de 2022,21 de febrero de 2024,OK
 QLn320,XXQLJ183200285,OK,OK,OK,NA,172.16.77.95,C095 Embarques PT 1,Francisco Melero,Embarques PT 1,18 de junio de 2022,21 de febrero de 2024,OK
 QLn420,XXQVJ170300450,OK,OK,OK,NA,173.16.77.51,C051 2227,Luis Zamarripa ,Nave 4,22 de febrero de 2022,21 de febrero de 2024,OK
 QLn320,XXQLJ162403454,OK,OK,OK,NA,172.16.77.47,C047 2227,Luis Zamarripa,Nave 4,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J144205397,OK,OK,OK,OK,172.23.8.54,Laboratorio Metalurgico Nave 4,Miguel Valenzuela ,Nave 4,1 de julio de 2023,30 de junio de 2025,OK
-ZT410,18J144205361,OK,OK,OK,OK,172.23.8.52,Oficina de Calidad Fundici�n ,Julio Hern�ndez ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ190300550,OK,OK,OK,NA,172.16.77.90,C090 Oficina Calidad fundicion,Julio Hern�ndez ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
-ZT410,18J175105802,OK,OK,OK,OK,172.23.8.170,Log�stica ,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
+ZT410,18J144205361,OK,OK,OK,OK,172.23.8.52,Oficina de Calidad Fundicion ,Julio Hernández ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ190300550,OK,OK,OK,NA,172.16.77.90,C090 Oficina Calidad fundicion,Julio Hernández ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
+ZT410,18J175105802,OK,OK,OK,OK,172.23.8.170,Logistica ,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
 QLn320,XXQLJ183200288,OK,OK,OK,NA,172.16.77.98,C098,Luis Ledesma ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
 QLn420,XXQVJ143900387,OK,OK,OK,NA,173.16.77.27,C027,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J180302861,OK,OK,OK,OK,172.23.8.179,Granallado,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
@@ -138,7 +138,7 @@ ZT411,08J102500303,OK,OK,OK,OK,172.23.8.115,Front Cover 2.5 L HEV,Laura o Magda,
 ZT411,18J183100904,OK,OK,OK,OK,172.23.8.109,Ensamble K107,Norma Quintana,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,XXQLJ141702589,OK,OK,OK,OK,172.23.8.62,Oil Pan 5BF C/S Sensor,Paola Sanchez,Nave 12,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,XXQLJ141702585,OK,OK,OK,OK,172.23.8.61,Oil Pan 5BF C/S Sensor,Ana Minjarez,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZT411,XXQLJ181300092,OK,OK,OK,OK,172.23.8.112,Front Cover D37,Sandra Hern�ndez ,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
+ZT411,XXQLJ181300092,OK,OK,OK,OK,172.23.8.112,Front Cover D37,Sandra Hernández ,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT411,XXQLJ181300085,OK,OK,OK,OK,172.23.8.113,Front Cover Cyclone 3.3,Marisol Arzate,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT411,XXQVJ175300462,OK,OK,OK,OK,172.23.8.110,Front Cover D35,Martha Cueto,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,XXQLJ141702608,OK,OK,OK,OK,172.23.8.163,Front Cover FR ZVK4,Nataly Navarrete,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
