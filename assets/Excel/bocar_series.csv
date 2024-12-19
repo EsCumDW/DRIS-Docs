@@ -12,29 +12,29 @@ ZT411,99J205103725,OK,OK,OK,OK,172.23.8.112,Front Cover D37,Sandra Hernández ,N
 ZT411,99J205000106,OK,OK,OK,OK,172.23.8.113,Front Cover Cyclone 3.3,Marisol Arzate,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT411,99J205103719,OK,OK,OK,OK,172.23.8.110,Front Cover D35,Martha Cueto,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,18J175005278,OK,OK,OK,OK,172.23.8.163,Front Cover FR ZVK4,Nataly Navarrete,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ171803367,OK,OK,OK,NA,172.16.77.10,C010 2224,Cesar Ramos,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZQ630,XXZLJ195001734,OK,OK,OK,NA,172.16.77.23,C023 2224,Cesar Ramos,Nave 12,28 de diciembre de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ175300460,OK,OK,OK,NA,172.16.77.85,C085 2229,Gerardo Betancourt ,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZQ620,XXZKJ201605147,OK,OK,OK,NA,172.16.77.15,C015 2228,Gerardo Betancourt ,Nave 12,8 de octubre de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ171803367,OK,OK,OK,X,172.16.77.10,C010 2224,Cesar Ramos,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
+ZQ630,XXZLJ195001734,OK,OK,OK,X,172.16.77.23,C023 2224,Cesar Ramos,Nave 12,28 de diciembre de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ175300460,OK,OK,OK,X,172.16.77.85,C085 2229,Gerardo Betancourt ,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
+ZQ620,XXZKJ201605147,OK,OK,OK,X,172.16.77.15,C015 2228,Gerardo Betancourt ,Nave 12,8 de octubre de 2023,30 de junio de 2025,OK
 ZT410,18J144205402,OK,OK,OK,OK,172.23.8.55,Calidad ,Norma Alvarez ,Nave 12,1 de julio de 2023,30 de junio de 2025,OK Se cambio toggle bar
-QLn420,XXQVJ171602044,OK,OK,OK,NA,172.16.77.21,Calidad ,Norma Alvarez ,Nave 12,28 de junio de 2022,21 de febrero de 2024,OK
-ZQ630,XXZLJ195001731,OK,OK,OK,NA,173.16.77.22,C022 2235,Daniel Reyes ,Nave 12,28 de diciembre de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ141602509,OK,OK,OK,NA,172.16.77.28,C028 2235,Daniel Reyes ,Nave 12,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ171602044,OK,OK,OK,X,172.16.77.21,Calidad ,Norma Alvarez ,Nave 12,28 de junio de 2022,21 de febrero de 2024,OK
+ZQ630,XXZLJ195001731,OK,OK,OK,X,173.16.77.22,C022 2235,Daniel Reyes ,Nave 12,28 de diciembre de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ141602509,OK,OK,OK,X,172.16.77.28,C028 2235,Daniel Reyes ,Nave 12,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT411,99J204802033,OK,OK,OK,OK,172.23.8.108,HF45,Estefania Picazo ,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,18J191203591,OK,OK,OK,OK,172.23.8.101,Mono block,Angel Loya,Nave 12,4 de septiembre de 2022,21 de febrero de 2024,OK
 ZT410,18J175105819,OK,OK,OK,OK,172.24.8.173,Wipe C073,Ricardo Duran,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J191203582,OK,OK,OK,OK,0.0.0.0,Solubles,Enrique Costa,Nave 8,4 de septiembre de 2022,21 de febrero de 2024,OK Se ajusto Cabezal el cabezal estaba vencido se ajusto con un tornillo
 ZT410,18J191203588,OK,OK,OK,OK,172.23.8.104,Modulo Sap componentes,Varios,Nave 8,4 de septiembre de 2022,21 de febrero de 2024,OK
 ZT410,18J175105798,OK,OK,OK,OK,172.23.8.168,Modulo Dap Kosba,Varios,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ175300449,OK,OK,OK,NA,172.16.77.87,C087 2226,Isabel Beleta,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ183200295,OK,OK,OK,NA,172.16.77.97,C097 2226,Isabel Beleta,Nave 8,18 de junio de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ190300569,OK,OK,OK,NA,172.16.77.89,C089 2230,Rafael Bejar,Nave 8,18 de junio de 2022,21 de febrero de 2024,OK
-QLn320,XXQLJ141602512,OK,OK,OK,NA,172.16.77.31,C031 2230,Rafael Bejar,Nave 8,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn320,XXQLJ183200251,OK,OK,OK,NA,172.16.77.94,C094 1,Isabel Beleta,Nave 8,18 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ175300449,OK,OK,OK,X,172.16.77.87,C087 2226,Isabel Beleta,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ183200295,OK,OK,OK,X,172.16.77.97,C097 2226,Isabel Beleta,Nave 8,18 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ190300569,OK,OK,OK,X,172.16.77.89,C089 2230,Rafael Bejar,Nave 8,18 de junio de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ141602512,OK,OK,OK,X,172.16.77.31,C031 2230,Rafael Bejar,Nave 8,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ183200251,OK,OK,OK,X,172.16.77.94,C094 1,Isabel Beleta,Nave 8,18 de junio de 2022,21 de febrero de 2024,OK
 ZT410,18J144205405,OK,OK,OK,OK,172.23.8.161,Modulo Sap Nave 8,Varios,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J144205401,OK,OK,OK,OK,172.23.8.121,Calidad Nave 8,Alfredo Gardea,Nave 8,1 de julio de 2023,30 de junio de 2025,OK Se cambio toggle bar
-QLn420,XXQVJ170300514,OK,OK,OK,NA,172.16.77.49,Calidad Nave 8,Alfredo Gardea,Nave 8,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ175300409,OK,OK,OK,NA,172.16.77.84,Calidad Nave 8,Alfredo Gardea,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ170300514,OK,OK,OK,X,172.16.77.49,Calidad Nave 8,Alfredo Gardea,Nave 8,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ175300409,OK,OK,OK,X,172.16.77.84,Calidad Nave 8,Alfredo Gardea,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J175105805,OK,OK,OK,OK,172.23.8.172,OP YDK3 / FC YDK3,Estrella Ramirez,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J175105804,OK,OK,OK,OK,172.23.8.171,OIL PAN YDK3,Gloria Sepulveda,Nave 8,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J171904497,OK,OK,OK,OK,172.23.8.158,FRONT COVER FR+,Valeri Lozoya,Nave 8,28 de junio de 2022,21 de febrero de 2024,OK
@@ -44,13 +44,13 @@ ZT410,18J175105826,OK,OK,OK,OK,172.23.8.177,ALMACEN GENERAL,Udivina Vázquez ,AL
 ZT410,18J170704396,OK,OK,OK,OK,0.0.0.0,ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
 ZT410,18J180302865,OK,OK,OK,OK,0.0.0.0,ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J191203595,OK,OK,OK,OK,0.0.0.0,ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,4 de septiembre de 2022,21 de febrero de 2024,Puerto ethernet dañado Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
-QLn320,XXQLJ141602513,OK,OK,OK,NA,172.16.77.32,C032 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,No prende Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
-QLn320,XXQLJ141602510,OK,OK,OK,NA,172.16.77.29,C029 ALMACEN GENERAL ,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ143900383,OK,OK,OK,NA,172.16.77.26,C026 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ171602047,OK,OK,OK,NA,173.16.77.13,C013 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ190300605,OK,OK,OK,NA,172.16.77.92,C092 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,18 de junio de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ141602513,OK,OK,OK,X,172.16.77.32,C032 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,No prende Se le comenta al Ing Montiel que nos tienen que enviar ese equipo
+QLn320,XXQLJ141602510,OK,OK,OK,X,172.16.77.29,C029 ALMACEN GENERAL ,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ143900383,OK,OK,OK,X,172.16.77.26,C026 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ171602047,OK,OK,OK,X,173.16.77.13,C013 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,28 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ190300605,OK,OK,OK,X,172.16.77.92,C092 ALMACEN GENERAL,Udivina Vazquez ,ALMACEN GENERAL,18 de junio de 2022,21 de febrero de 2024,OK
 ZT411,99J204802531,OK,OK,OK,OK,172.23.8.116,GEAR CASE LH,Isabel Lan,Nave 10,24 de febrero de 2021,23 de febrero de 2024,OK
-ZQ630,XXZLJ195001736,OK,OK,OK,NA,172.16.77.24,C024 Calidad Nave 10,Alejandra Lucero,Nave 10,28 de diciembre de 2023,30 de junio de 2025,OK
+ZQ630,XXZLJ195001736,OK,OK,OK,X,172.16.77.24,C024 Calidad Nave 10,Alejandra Lucero,Nave 10,28 de diciembre de 2023,30 de junio de 2025,OK
 ZT411,99J202401401,OK,OK,OK,OK,172.23.8.107,Calidad Nave 10,Alejandra Lucero,Nave 10,8 de octubre de 2023,30 de junio de 2025,OK
 ZT410,18J144205358,OK,OK,OK,OK,173.23.8.51,OIL PAN 5BA,Mayra Montellano,Nave 9,1 de julio de 2023,30 de junio de 2025,OK Se Cambio de Panel
 ZT410,18J151502686,OK,OK,OK,OK,172.23.8.58,OIL PAN 5BA,Mayra Montellano,Nave 9,1 de julio de 2023,30 de junio de 2025,OK
@@ -71,36 +71,36 @@ ZT410,18J175105825,OK,OK,OK,OK,172.23.8.176,Calidad Nave 9,NESTOR ALVAREZ ,Nave 
 ZT410,18J151803318,OK,OK,OK,OK,172.23.8.57,Embarques PT 2,Antonio Ochoa,Embarques  PT2,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J142002056,OK,OK,OK,OK,172.23.8.200,Oficina Componenetes ,Daniel Perez ,Oficina Componentes ,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J180302862,OK,OK,OK,OK,172.23.8.180,Oficina Componenetes ,Daniel Perez ,Oficina Componentes ,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ162403357,OK,OK,OK,NA,173.16.77.48,C048 Oficina Componentes,Daniel Perez ,Oficina Componentes ,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ162403357,OK,OK,OK,X,173.16.77.48,C048 Oficina Componentes,Daniel Perez ,Oficina Componentes ,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J144205393,OK,OK,OK,OK,172.23.8.53,Embarques PT 1,Francisco Melero,Embarques PT 1,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J191203590,OK,OK,OK,OK,173.23.8.102,Embarques PT 1,Francisco Melero,Embarques PT 1,4 de septiembre de 2022,21 de febrero de 2024,OK
-QLn320,XXQLJ183200285,OK,OK,OK,NA,172.16.77.95,C095 Embarques PT 1,Francisco Melero,Embarques PT 1,18 de junio de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ170300450,OK,OK,OK,NA,173.16.77.51,C051 2227,Luis Zamarripa ,Nave 4,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn320,XXQLJ162403454,OK,OK,OK,NA,172.16.77.47,C047 2227,Luis Zamarripa,Nave 4,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ183200285,OK,OK,OK,X,172.16.77.95,C095 Embarques PT 1,Francisco Melero,Embarques PT 1,18 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ170300450,OK,OK,OK,X,173.16.77.51,C051 2227,Luis Zamarripa ,Nave 4,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ162403454,OK,OK,OK,X,172.16.77.47,C047 2227,Luis Zamarripa,Nave 4,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J144205397,OK,OK,OK,OK,172.23.8.54,Laboratorio Metalurgico Nave 4,Miguel Valenzuela ,Nave 4,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J144205361,OK,OK,OK,OK,172.23.8.52,Oficina de Calidad Fundicion ,Julio Hernández ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ190300550,OK,OK,OK,NA,172.16.77.90,C090 Oficina Calidad fundicion,Julio Hernández ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ190300550,OK,OK,OK,X,172.16.77.90,C090 Oficina Calidad fundicion,Julio Hernández ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
 ZT410,18J175105802,OK,OK,OK,OK,172.23.8.170,Logistica ,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ183200288,OK,OK,OK,NA,172.16.77.98,C098,Luis Ledesma ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ143900387,OK,OK,OK,NA,173.16.77.27,C027,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ183200288,OK,OK,OK,X,172.16.77.98,C098,Luis Ledesma ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ143900387,OK,OK,OK,X,173.16.77.27,C027,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
 ZT410,18J180302861,OK,OK,OK,OK,172.23.8.179,Granallado,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ171803340,OK,OK,OK,NA,172.16.77.41,C041,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ183200284,OK,OK,OK,NA,0.0.0.0,Nave 1,Luis Ledesma ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
-QLn320,XXQLJ161202684,OK,OK,OK,NA,173.16.77.43,C043,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn320,XXQLJ171803377,OK,OK,OK,NA,172.16.77.8,C008,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ170300523,OK,OK,OK,NA,172.16.77.50,C050,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ143900379,OK,OK,OK,NA,172.16.77.25,C025,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
-QLn420,XXQVJ152500757,OK,OK,OK,NA,172.16.77.44,C044,Luis Ledesma ,Nave 1,28 de junio de 2022,21 de febrero de 2024,OK
-ZQ620,XXZKJ201208809,OK,OK,OK,NA,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,8 de octubre de 2023,30 de junio de 2025,OK
-ZQ620,XXZKJ201605144,OK,OK,OK,NA,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,8 de octubre de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ175300418,OK,OK,OK,NA,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ171401465,OK,OK,OK,NA,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,22 de febrero de 2022,21 de febrero de 2024,OK
-QL420,XXQVJ171602046,OK,OK,OK,NA,173.16.77.17,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,28 de junio de 2022,21 de febrero de 2024,OK
-QL420,XXQVJ190300603,OK,OK,OK,NA,172.16.77.91,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,18 de junio de 2022,21 de febrero de 2024,OK
-QL320,XXQLJ183200276,OK,OK,OK,NA,172.16.77.93,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,18 de junio de 2022,21 de febrero de 2024,OK
-QL420,XXQVJ175300448,OK,OK,OK,NA,172.16.77.4,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
-QL320,XXQLJ171803291,OK,OK,OK,NA,172.16.77.18,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
-QL320,75001322,OK,OK,OK,NA,172.16.77.72,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ171803340,OK,OK,OK,X,172.16.77.41,C041,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ183200284,OK,OK,OK,X,0.0.0.0,Nave 1,Luis Ledesma ,Nave 1,18 de junio de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ161202684,OK,OK,OK,X,173.16.77.43,C043,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn320,XXQLJ171803377,OK,OK,OK,X,172.16.77.8,C008,Luis Ledesma ,Nave 1,1 de julio de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ170300523,OK,OK,OK,X,172.16.77.50,C050,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ143900379,OK,OK,OK,X,172.16.77.25,C025,Luis Ledesma ,Nave 1,22 de febrero de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ152500757,OK,OK,OK,X,172.16.77.44,C044,Luis Ledesma ,Nave 1,28 de junio de 2022,21 de febrero de 2024,OK
+ZQ620,XXZKJ201208809,OK,OK,OK,X,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,8 de octubre de 2023,30 de junio de 2025,OK
+ZQ620,XXZKJ201605144,OK,OK,OK,X,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,8 de octubre de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ175300418,OK,OK,OK,X,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ171401465,OK,OK,OK,X,0.0.0.0,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,22 de febrero de 2022,21 de febrero de 2024,OK
+QL420,XXQVJ171602046,OK,OK,OK,X,173.16.77.17,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,28 de junio de 2022,21 de febrero de 2024,OK
+QL420,XXQVJ190300603,OK,OK,OK,X,172.16.77.91,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,18 de junio de 2022,21 de febrero de 2024,OK
+QL320,XXQLJ183200276,OK,OK,OK,X,172.16.77.93,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,18 de junio de 2022,21 de febrero de 2024,OK
+QL420,XXQVJ175300448,OK,OK,OK,X,172.16.77.4,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
+QL320,XXQLJ171803291,OK,OK,OK,X,172.16.77.18,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
+QL320,75001322,OK,OK,OK,X,172.16.77.72,ALMACEN GENERAL ,ALMACEN GENERAL ,ALMACEN GENERAL ,1 de julio de 2023,30 de junio de 2025,OK
 ZT410,18J144205562,OK,OK,OK,OK,172.30.8.73,OF CALIDAD,LAURA ALVARADO,-,-,-,OK
 ZT410,18J144205566,OK,OK,OK,OK,172.30.8.11,GM,YOLANDA MTZ,-,-,-,OK
 ZT410,18J180701359,OK,OK,OK,OK,172.30.8.14,GM,YOLANDA MTZ,-,-,-,OK
@@ -136,9 +136,9 @@ ZT411,XXQLJ181300092,OK,OK,OK,OK,172.23.8.112,Front Cover D37,Sandra Hernández 
 ZT411,XXQLJ181300085,OK,OK,OK,OK,172.23.8.113,Front Cover Cyclone 3.3,Marisol Arzate,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT411,XXQVJ175300462,OK,OK,OK,OK,172.23.8.110,Front Cover D35,Martha Cueto,Nave 12,24 de febrero de 2021,23 de febrero de 2024,OK
 ZT410,XXQLJ141702608,OK,OK,OK,OK,172.23.8.163,Front Cover FR ZVK4,Nataly Navarrete,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-QLn320,XXQLJ181403580,OK,OK,OK,NA,172.16.77.10,C010 2224,Cesar Ramos,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZQ630,XXQVJ143900365,OK,OK,OK,NA,172.16.77.23,C023 2224,Cesar Ramos,Nave 12,28 de diciembre de 2023,30 de junio de 2025,OK
-QLn420,XXQVJ181800934,OK,OK,OK,NA,172.16.77.85,C085 2229,Gerardo Betancourt ,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
-ZQ620,52J16500444,OK,OK,OK,NA,172.16.77.15,C015 2228,Gerardo Betancourt ,Nave 12,8 de octubre de 2023,30 de junio de 2025,OK
+QLn320,XXQLJ181403580,OK,OK,OK,X,172.16.77.10,C010 2224,Cesar Ramos,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
+ZQ630,XXQVJ143900365,OK,OK,OK,X,172.16.77.23,C023 2224,Cesar Ramos,Nave 12,28 de diciembre de 2023,30 de junio de 2025,OK
+QLn420,XXQVJ181800934,OK,OK,OK,X,172.16.77.85,C085 2229,Gerardo Betancourt ,Nave 12,1 de julio de 2023,30 de junio de 2025,OK
+ZQ620,52J16500444,OK,OK,OK,X,172.16.77.15,C015 2228,Gerardo Betancourt ,Nave 12,8 de octubre de 2023,30 de junio de 2025,OK
 ZT410,XXQVJ200300270,OK,OK,OK,OK,172.23.8.55,Calidad ,Norma Alvarez ,Nave 12,1 de julio de 2023,30 de junio de 2025,OK Se cambio toggle bar
-QLn420,XXQVJ181800917,OK,OK,OK,NA,172.16.77.21,Calidad ,Norma Alvarez ,Nave 12,28 de junio de 2022,21 de febrero de 2024,OK
+QLn420,XXQVJ181800917,OK,OK,OK,X,172.16.77.21,Calidad ,Norma Alvarez ,Nave 12,28 de junio de 2022,21 de febrero de 2024,OK
