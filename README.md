@@ -102,8 +102,10 @@ Esta actividad genera y adjunta al correo electrónico dos archivos: un informe 
 |--------|--------|-------|---------|--------|---------|-------|----|----------|----------|-----------|--------------|-------------|---------------|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Aqui hay un [**ejemplo**](/assets/Excel/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**.
+<!-- Aqui hay un [**ejemplo**](/assets/Excel/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**. -->
 
+Dicho archivo se **descarga** al pulsar el botón de color azul que está sobre el botón **"Agregar nueva base de datos"** o con el signo **"+"**
+Una vez descargado el archivo, si se actualiza se **puede enviar a coordinación** al pulsar de nuevo el mismo botón y eligiendo la opción de **"Enviar Series"**
 ---
 <!-- ## Mercado Libre
 
