@@ -98,14 +98,15 @@ Esta actividad genera y adjunta al correo electrónico dos archivos: un informe 
 
 **El archivo fuente o de series autorizadas para Bocar debe incluir en formato CSV las siguientes columnas sin encabezados:**
 
-| Número | Modelo | Serie | Cabezal | Sensor | Rodillo | Banda | IP | Estación | Operador | Ubicación | Fecha Inicio | Fecha Final | Observaciones |
+<!-- | Número | Modelo | Serie | Cabezal | Sensor | Rodillo | Banda | IP | Estación | Operador | Ubicación | Fecha Inicio | Fecha Final | Observaciones |
 |--------|--------|-------|---------|--------|---------|-------|----|----------|----------|-----------|--------------|-------------|---------------|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | -->
 
 <!-- Aqui hay un [**ejemplo**](/assets/Excel/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**. -->
 
 Dicho archivo se **descarga** al pulsar el botón de color azul que está sobre el botón **"Agregar nueva base de datos"** o con el signo **"+"**
 Una vez descargado el archivo, si se actualiza se **puede enviar a coordinación** al pulsar de nuevo el mismo botón y eligiendo la opción de **"Enviar Series"**
+
 ---
 <!-- ## Mercado Libre
 
