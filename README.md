@@ -1,4 +1,4 @@
-# DRIS V3.3.1 (Dataware Report Integrated System)
+# DRIS V3.3.4 (Dataware Report Integrated System)
 
 <center>
 
@@ -105,7 +105,7 @@ Esta actividad genera y adjunta al correo electrónico dos archivos: un informe 
 Aqui hay un [**ejemplo**](/assets/Excel/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**.
 
 ---
-## Mercado Libre
+<!-- ## Mercado Libre
 
 En la Actividad de **Mercado Libre** se capturan datos como: 
 
@@ -133,7 +133,7 @@ Aqui hay un [**ejemplo**](/assets/Excel/MeLi_Qro_Series.csv) de como debe ser el
 
 *La actividad relacionada con **Firmware** sigue el mismo procedimiento, simplemente reemplaza el valor de las pulgadas con el de Firmware.*
 
----
+--- -->
 
 ## Reportes de Servicio
 
@@ -161,8 +161,8 @@ Aqui hay ejemplos de como son los reportes para cada actividad.
 - [**Reporte PDF Otros Cientes**](/assets/PDF/Reporte_ST_Dataware_Qro.pdf)
 - [**Reporte PDF Bocar**](/assets/PDF/Reporte_ST_Bocar_Qro.pdf)
 - [**Reporte Excel Bocar**](/assets/Excel/Bocar_Qro_Excel.xls)
-- [**Reporte PDF Mercado Libre**](/assets/PDF/Reporte_ST_MeLi_Qro.pdf)
-- [**Reporte Excel Mercado Libre**](/assets/Excel/MeLi_Qro_Excel.xls)
+<!-- - [**Reporte PDF Mercado Libre**](/assets/PDF/Reporte_ST_MeLi_Qro.pdf)
+- [**Reporte Excel Mercado Libre**](/assets/Excel/MeLi_Qro_Excel.xls) -->
 - [**Reporte de Servicio**](/assets/PDF/Reporte_Servicio_Dataware.pdf)
 
 
