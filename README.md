@@ -9,9 +9,10 @@
 <center>
 
 [![Dataware](https://img.shields.io/badge/-Dataware-yellow)](https://www.dataware.com.mx/)
-[![ST](https://img.shields.io/badge/-Soporte%20T%C3%A9cnico-orange)](https://www.dataware.com.mx/soporte-tecnico)
-[![Android app](https://img.shields.io/badge/Android-App-green)](https://developer.android.com/?hl=es-419)
-[![SIT](https://img.shields.io/badge/SIT-Dev-blue?style=plastic\&logo=SIT\&logoColor=blue)](https://www.dataware.com.mx/servicios-profesionales)
+[![ST](https://img.shields.io/badge/-Soporte%20T%C3%A9cnico-darkred)](https://www.dataware.com.mx/soporte-tecnico)
+[![Android app](https://img.shields.io/badge/Android-App-blue)](https://developer.android.com/?hl=es-419)
+[![SIT](https://img.shields.io/badge/SIT-Dev-lightblue?style=plastic\&logo=SIT\&logoColor=blue)](https://www.dataware.com.mx/servicios-profesionales)
+[![SAP](https://img.shields.io/badge/SAPB1-ServiceLayer-orange?style=plastic\&logo=SIT\&logoColor=blue)](https://www.dataware.com.mx/servicios-profesionales)
 
 </center>
 
@@ -162,9 +163,10 @@ Aquí hay ejemplos de reportes generados por la aplicación:
 
 ## Tecnologías
 
-![java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=Android%20Studio\&logoColor=white\&labelColor=black)
+![java](https://img.shields.io/badge/Java-yellow?style=for-the-badge\&logo=Android%20Studio\&logoColor=white\&labelColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-purple?style=for-the-badge\&logo=Gradle\&logoColor=white\&labelColor=black)
 ![Zebra](https://img.shields.io/badge/Zebra-grey?style=for-the-badge\&logo=zebratechnologies\&logoColor=white\&labelColor=black)
+![SAPB1](https://img.shields.io/badge/SAPB1-orange?style=for-the-badge\&logo=SAP\&logoColor=blue\&labelColor=white)
 
 ---
 
@@ -181,4 +183,4 @@ Aquí hay ejemplos de reportes generados por la aplicación:
 
 ## Soporte
 
-Si tienes dudas o necesitas una aclaración, manda un email a [e.cuadra@dataware.com.mx](mailto:e.cuadra@dataware.com.mx).
+Si tienes dudas revisa el [Manual de Usuario DRIS](assets/PDF/Manual%20de%20Usuario%20DRIS.pdf) o si necesitas soporte, manda un email a [e.cuadra@dataware.com.mx](mailto:e.cuadra@dataware.com.mx).
