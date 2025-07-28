@@ -1,4 +1,4 @@
-# DRIS V3.3.4 (Dataware Report Integrated System)
+# DRIS V4.0.2 - SAP V1.0.0 (Dataware Report Integrated System)
 
 <center>
 
@@ -11,180 +11,174 @@
 [![Dataware](https://img.shields.io/badge/-Dataware-yellow)](https://www.dataware.com.mx/)
 [![ST](https://img.shields.io/badge/-Soporte%20T%C3%A9cnico-orange)](https://www.dataware.com.mx/soporte-tecnico)
 [![Android app](https://img.shields.io/badge/Android-App-green)](https://developer.android.com/?hl=es-419)
-[![SIT](https://img.shields.io/badge/SIT-Dev-blue?style=plastic&logo=SIT&logoColor=blue)](https://www.dataware.com.mx/servicios-profesionales)
-
-
+[![SIT](https://img.shields.io/badge/SIT-Dev-blue?style=plastic\&logo=SIT\&logoColor=blue)](https://www.dataware.com.mx/servicios-profesionales)
 
 </center>
 
 ---
 
-## Sobre este proyecto
-
-El departamento de **Servicios de Integración Tecnológica** recibió la solicitud de rediseñar la aplicación de **CAPTURA DE REPORTES** utilizando **Android Studio** en lugar de **Kalipso**. El objetivo del rediseño es lograr una mayor robustez y mejorar la experiencia del usuario. La nueva aplicación, **DRIS**, conserva un diseño basado en la aplicación anterior pero incluye nuevas funciones.
-## Tecnologías
-
-![java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Android%20Studio&logoColor=white&labelColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-purple?style=for-the-badge&logo=Gradle&logoColor=white&labelColor=black)
-![Zebra](https://img.shields.io/badge/Zebra-grey?style=for-the-badge&logo=zebratechnologies&logoColor=white&labelColor=black)
 
 
-### Objetivo
-Crear una aplicación en **Android Studio** que agilice la generación de reportes de mantenimiento y servicio, con el fin de optimizar y eficientar el trabajo de los técnicos de Soporte Técnico y mejorar la experiencia del cliente.
+## Introducción
 
-### ¿Para qué sirve DRIS?
-- Se han implementado varias interfaces que permiten al usuario generar reportes específicos según el cliente atendido. Actualmente, se pueden generar reportes de mantenimiento para Bocar, Mercado Libre y Otros Clientes, así como reportes de servicio para cualquier tipo de cliente en el formato Dataware.
-- Conteo de registros
-- Vista previa a registros
-- Mayor espacio en comentarios
-- Reportes específicos dependiendo del cliente
-  - Reporte Excel
-  - Reporte PDF
-  - Reporte de Servicio por número de serie
-- Evíar reporte por correo electrónico
-- Editar firmas antes de crear PDF
-- Cambiar Cliente
-- Crear Bases de Datos
-- Borrar Bases de Datos
-- Borrar registros individuales
+El departamento de **Servicios de Integración Tecnológica (SIT)** y el equipo de **Soporte Técnico** rediseñaron la aplicación de **captura de reportes** utilizando **Android Studio**, reemplazando la versión anterior desarrollada en Kalipso. Este rediseño tiene como objetivo mejorar la robustez del sistema, ofrecer una experiencia de usuario más fluida y alinearse con la plataforma **SIID**.
+
+La aplicación **DRIS** está diseñada para facilitar la generación de reportes por parte del personal técnico y de servicios, permitiendo documentar mantenimientos y servicios conforme al cliente atendido y al rol del usuario.
+
+### Funcionalidades principales
+
+* Creación de tickets de mantenimiento y servicio en SAP
+* Conteo de registros
+* Vista previa de registros, tickets pendientes y tickets globales
+* Mayor espacio en comentarios
+* Reportes específicos por cliente:
+  * Reporte Excel de Mantenimiento (solo para Bocar)
+  * Reporte PDF de Mantenimiento por Ticket Global
+  * Reporte PDF de Servicio por ticket
+* Envío de reportes por correo electrónico
+* Edición de firmas antes de generar PDF
+* Cambio de cliente
+* Creación de archivos de registros
+* Borrado de archivos de registros
+* Borrado de registros, tickets y globales
 
 ---
-## App
-Para instalar el [apk](/assets/apk/DRIS%203.3.1.apk) en tu dispositivo sigue el [Manual de Ususario](/assets/PDF/Presentación%20Reportes_ST.pdf) o clona el repositorio desde **Github** y carga la app desde **Android Studio**. **La aplicación esta probada en A10, A11, A12 y A13.**
 
-```bash
-git clone https://github.com/EsCumDW/DRIS-Dataware-Report-Integrated-System.git
-```
+## Restricciones y condiciones de uso
 
-## Otros Clientes
+Para garantizar un funcionamiento correcto y una adecuada gestión de información, se definen las siguientes condiciones y restricciones según el **rol del usuario**:
 
-En la Actividad de **Otros Clientes** se capturan datos como: 
+### Creación de Tickets
 
-- Modelo
-- Numero de Serie
-- Cambio de refacciones
-    - Banda
-    - Rodillo
-    - Cabezal
-    - Sensor
-- Pulgadas del encoder
-- Comentarios
+| Actividad                      | Rol Técnico                                  | Rol SIT                                                                         |
+| ------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------- |
+| Tickets de Mantenimiento       | ✔ Puede crear tickets cerrados por impresora | ✔ Puede crear tickets cerrados por impresora                                    |
+| Tickets de Mantenimiento Bocar | ✔ Puede crear tickets cerrados por impresora | ✔ Puede crear tickets cerrados por impresora                                    |
+| Tickets de Servicio            | ❌ No disponible                              | ✔ Puede generar un ticket abierto por servicio y cerrarlo al generar el reporte |
 
-Esta sección permite la inclusión de múltiples registros en diversas bases de datos según sea necesario. El documento es firmado por ambas partes: el responsable de Dataware Soluciones y el responsable del cliente actual. Además, se registran el asunto del reporte, el tipo de llamada y el número de ticket.
+⚠️ **Importante:** *Para garantizar el correcto funcionamiento de la aplicación y su integración con **SAP**, asegúrate de tener activa la conexión **VPN**. Consulta el manual de configuración [**Forti Client VPN** ](assets/images/Manual%20FortiVPN%20DRIS.png)si tienes dudas respecto a como configurar tu VPN.*
 
-Como resultado de esta actividad, se adjuntan un archivo al correo electrónico: **un reporte en formato PDF**.
+### Creación de Reportes
+
+Ambos roles pueden generar reportes finales de mantenimiento o servicio. Estos reportes pueden ser:
+* Compartidos con el cliente por correo electrónico
+* Adjuntados automáticamente en **SAP**
+  * En el **ticket global** (para mantenimientos)
+  * En el **ticket en curso** (para servicios)
 
 ---
-## Bocar
 
-En la Actividad de **Bocar** se capturan datos como: 
+<!-- ## Niveles de acceso por rol
 
-- Modelo
-- Numero de Serie
-- Cambio de refacciones
-    - Banda
-    - Rodillo
-    - Cabezal
-    - Sensor
-- IP
-- Zona de Operación
-- Operador
-- Ubicación
-- Comentarios
-
-Permite incorporar la cantidad de registros necesarios en diversas bases de datos, y adjuntar un archivo de series autorizadas, mediante el cual el sistema coteja las series capturadas con las registradas por el coordinador en el documento fuente. Al concluir, se facilita la firma del documento por ambas partes: el responsable de Dataware Soluciones y el responsable del cliente en cuestión. Se registran el asunto del informe, el tipo de llamada, el número de ticket, el nombre del cliente, su dirección de correo electrónico y su número de teléfono celular.
-
-Esta actividad genera y adjunta al correo electrónico dos archivos: un informe en PDF y otro en formato Excel.
-
-**El archivo fuente o de series autorizadas para Bocar debe incluir en formato CSV las siguientes columnas sin encabezados:**
-
-<!-- | Número | Modelo | Serie | Cabezal | Sensor | Rodillo | Banda | IP | Estación | Operador | Ubicación | Fecha Inicio | Fecha Final | Observaciones |
-|--------|--------|-------|---------|--------|---------|-------|----|----------|----------|-----------|--------------|-------------|---------------|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  | -->
-
-<!-- Aqui hay un [**ejemplo**](/assets/Excel/bocar_qro_series.csv) de como debe ser el **archivo fuente para Bocar**. -->
-
-Dicho archivo se **descarga** al pulsar el botón de color azul que está sobre el botón **"Agregar nueva base de datos"** o con el signo **"+"**
-Una vez descargado el archivo, si se actualiza se **puede enviar a coordinación** al pulsar de nuevo el mismo botón y eligiendo la opción de **"Enviar Series"**
-
----
-<!-- ## Mercado Libre
-
-En la Actividad de **Mercado Libre** se capturan datos como: 
-
-- Modelo
-- Numero de Serie
-- Cambio de refacciones
-    - Banda
-    - Rodillo
-    - Cabezal
-    - Sensor
-- Pulgadas o Firmware
-- Comentarios
-
-Permite ingresar la cantidad necesaria de registros en varias bases de datos, y adjuntar un archivo de series autorizadas. Este archivo permite al sistema comparar las series capturadas con las registradas por el coordinador en el documento fuente. Una vez finalizada la tarea, se facilita la firma del documento por ambas partes: el responsable de Dataware Soluciones y el responsable del cliente en turno. Se registran el asunto del informe, el tipo de llamada, el número de ticket, el nombre del cliente, su dirección de correo electrónico y su número de teléfono celular.
-
-Como resultado, esta actividad genera y adjunta al correo electrónico dos archivos: un informe en PDF y otro en formato Excel.
-
-**El archivo fuente o de series autorizadas para Mercado Libre debe contener en formato CSV las siguientes cuatro columnas sin encabezados:**
-
-| Serie | Fecha Vigencia Inicial | Fecha Vigencia Final | Zona de Operación |
-|----- |------|---------|----------|
-|  |  |  |  |
-
-Aqui hay un [**ejemplo**](/assets/Excel/MeLi_Qro_Series.csv) de como debe ser el **archivo fuente para Mercado Libre**.
-
-*La actividad relacionada con **Firmware** sigue el mismo procedimiento, simplemente reemplaza el valor de las pulgadas con el de Firmware.*
+| Rol     | Tickets Mantenimiento | Tickets Mantenimiento Bocar | Tickets Servicio | Creación de Reportes |
+| ------- | --------------------- | --------------------------- | ---------------- | -------------------- |
+| Técnico | ✔                     | ✔                           | ❌                | ✔                    |
+| SIT     | ✔                     | ✔                           | ✔                | ✔                    |
 
 --- -->
+
+## Funciones y responsabilidades por rol
+
+Aunque existen dos roles diferenciados (Técnico y SIT), ambos pueden acceder a todas las funciones generales de la aplicación. La única restricción significativa es la **creación de tickets**:
+
+* **Técnico**: puede crear tickets **solo en actividades de mantenimiento**.
+* **SIT**: puede crear tickets **en todas las actividades**.
+
+---
+
+## Reportes de Mantenimiento
+
+En la Actividad de **Reportes de Mantenimiento** se capturan datos como:
+
+* Modelo
+* Número de Serie
+* Cambio de refacciones:
+  * Banda
+  * Rodillo
+  * Cabezal
+  * Sensor
+* Pulgadas del encoder
+* Comentarios
+
+Esta sección permite la inclusión de múltiples registros en diversas bases de datos según sea necesario. Cada registro, si la serie existe en SAP, es un ticket. El documento generado es firmado por ambas partes: el responsable de Dataware Soluciones y el responsable del cliente actual. Además, se registran el asunto del reporte, el tipo de llamada y el número de ticket Global.
+
+Como resultado de esta actividad, se genera y adjunta al ticket Global en SAP un **reporte en formato PDF**  y se manda por correo al cliente y a la coordinación pertinente.
+
+---
+
+## Reportes de Mantenimiento Bocar
+
+En la Actividad de **Reportes de Mantenimiento Bocar** se capturan datos como:
+
+* Modelo
+* Número de Serie
+* Cambio de refacciones:
+  * Banda
+  * Rodillo
+  * Cabezal
+  * Sensor
+* IP
+* Zona de Operación
+* Operador
+* Ubicación
+* Comentarios
+
+Permite incorporar múltiples registros en diversas bases de datos y validar las series autorizadas contra un archivo fuente provisto por coordinación. Al finalizar, el reporte es firmado por ambas partes, se registran los datos de contacto del cliente y se adjuntan al correo electrónico. Además, se registran el asunto del reporte, el tipo de llamada y el número de ticket Global.
+Como resultado de esta actividad, **se generan y adjuntan al ticket Global en SAP un reporte en formato PDF y un reporte en formato Excel**, los cuales se envían por correo tanto al cliente como a la coordinación pertinente.
+
+---
 
 ## Reportes de Servicio
 
 En la Actividad de **Reportes de Servicio** se capturan datos como:
 
-- Número de Serie
-- Nombre del Cliente
-- Responsable del Cliente
-- Teléfono
-- Correo electrónico
-- Dirección
-- Modelo
-- Asunto del reporte
-- Comentarios respecto al reporte o problema
-- Resolución del reporte o problema
+* Número de Serie
+* Nombre del Cliente
+* Responsable del Cliente
+* Teléfono
+* Correo electrónico
+* Dirección
+* Modelo
+* Asunto del reporte
+* Comentarios
+* Resolución del reporte o problema
 
-Esta actividad opera exclusivamente con un archivo de registros denominado **Datos_RS**, en el cual el usuario puede crear tantos registros como desee. Los números de serie de estos registros se muestran en un Spinner que, al seleccionar uno, completa automáticamente los demás campos con la información correspondiente.
-
-**No se necesita un archivo de series autorizadas para esta actividad, y produce un informe por dispositivo o número de serie.**
+Esta actividad opera **por ticket:** cada registro genera un **reporte individual** y se crea un **ticket de servicio único** que se **cierra automáticamente** al generar el reporte.
+Al momento de armar el reporte, se solicita al usuario que ingrese su **nombre**, el **asunto del servicio** y un número de **ticket Global provisional.**
+El reporte generado se **adjunta automáticamente al ticket en SAP.**
 
 ---
+
 ## Reportes
-Aqui hay ejemplos de como son los reportes para cada actividad.
 
-- [**Reporte PDF Otros Cientes**](/assets/PDF/Reporte_ST_Dataware_Qro.pdf)
-- [**Reporte PDF Bocar**](/assets/PDF/Reporte_ST_Bocar_Qro.pdf)
-- [**Reporte Excel Bocar**](/assets/Excel/Bocar_Qro_Excel.xls)
-<!-- - [**Reporte PDF Mercado Libre**](/assets/PDF/Reporte_ST_MeLi_Qro.pdf)
-- [**Reporte Excel Mercado Libre**](/assets/Excel/MeLi_Qro_Excel.xls) -->
-- [**Reporte de Servicio**](/assets/PDF/Reporte_Servicio_Dataware.pdf)
+Aquí hay ejemplos de reportes generados por la aplicación:
 
+* [**Reporte Mantenimiento**](/assets/PDF/Reporte_ST_Dataware_Qro.pdf)
+* [**Reporte Mantenimiento Bocar**](/assets/PDF/Reporte_ST_Bocar_Qro.pdf)
+* [**Reporte Mantenimiento Excel Bocar**](/assets/Excel/Bocar_Qro_Excel.xls)
+* [**Reporte de Servicio**](/assets/PDF/Reporte_Servicio_Dataware.pdf)
 
 ---
+
+## Tecnologías
+
+![java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=Android%20Studio\&logoColor=white\&labelColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-purple?style=for-the-badge\&logo=Gradle\&logoColor=white\&labelColor=black)
+![Zebra](https://img.shields.io/badge/Zebra-grey?style=for-the-badge\&logo=zebratechnologies\&logoColor=white\&labelColor=black)
+
+---
+
 ## Créditos
 
 <center>
 
-![](/assets/images/logo_sit_512.png) 
-[![](/assets/images/ECMFooterCut.png)](https://github.com/EsCumDW)
+![](/assets/images/logo_sit_512.png)
+<!-- [![](/assets/images/ECMFooterCut.png)](https://github.com/EsCumDW) -->
 
 </center>
 
-
-
 ---
+
 ## Soporte
 
- Si tienes dudas o necesitas una aclaración manda email a [e.cuadra@dataware.com.mx](https://google.com). 
-
-
-
+Si tienes dudas o necesitas una aclaración, manda un email a [e.cuadra@dataware.com.mx](mailto:e.cuadra@dataware.com.mx).
