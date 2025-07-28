@@ -166,7 +166,7 @@ Aquí hay ejemplos de reportes generados por la aplicación:
 ![java](https://img.shields.io/badge/Java-yellow?style=for-the-badge\&logo=Android%20Studio\&logoColor=white\&labelColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-purple?style=for-the-badge\&logo=Gradle\&logoColor=white\&labelColor=black)
 ![Zebra](https://img.shields.io/badge/Zebra-grey?style=for-the-badge\&logo=zebratechnologies\&logoColor=white\&labelColor=black)
-![SAPB1](https://img.shields.io/badge/SAPB1-orange?style=for-the-badge\&logo=SAP\&logoColor=blue\&labelColor=white)
+![SAPB1](https://img.shields.io/badge/SAPB1-orange?style=for-the-badge\&logo=SAP\&logoColor=white\&labelColor=black)
 
 ---
 
