@@ -1,4 +1,4 @@
-# DRIS V4.0.2 - SAP V1.0.0 (Dataware Report Integrated System)
+# DRIS V4.2.2 - SAP V1.1.2 (Dataware Report Integrated System)
 
 <center>
 
@@ -57,7 +57,7 @@ Para garantizar un funcionamiento correcto y una adecuada gestión de informaci�
 | Tickets de Mantenimiento Bocar | ✔ Puede crear tickets cerrados por impresora | ✔ Puede crear tickets cerrados por impresora                                    |
 | Tickets de Servicio            | ❌ No disponible                              | ✔ Puede generar un ticket abierto por servicio y cerrarlo al generar el reporte |
 
-⚠️ **Importante:** *Para garantizar el correcto funcionamiento de la aplicación y su integración con **SAP**, asegúrate de tener activa la conexión **VPN**. Consulta el manual de configuración [**Forti Client VPN** ](assets/images/Manual%20FortiVPN%20DRIS.png)si tienes dudas respecto a como configurar tu VPN.*
+⚠️ **Importante:** *Para garantizar el correcto funcionamiento de la aplicación y su integración con **SAP**, asegúrate de tener activa la conexión **VPN**. Consulta el manual de configuración [**Forti Client VPN** ](assets/images/Manual%20FortiVPN%20DRIS2.png)si tienes dudas respecto a como configurar tu VPN.*
 
 ### Creación de Reportes
 
